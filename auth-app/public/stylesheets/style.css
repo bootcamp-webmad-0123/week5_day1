@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+#error {
+  background-color: rgb(255, 193, 193);
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  font-size: .8em;
+}
